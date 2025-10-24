@@ -1,4 +1,4 @@
-Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvimento do curso de Ciência de Dados da EBAC. Dessa fórmula, cada arquivo segue a descrição abaixo:
+Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvimento do curso de Ciência de Dados da EBAC. Dessa forma, cada arquivo segue a descrição abaixo:
 
 - **Módulo 12**: Estatística Básica
 - **Módulo 17**: Correlação, Balanceamento e Variáveis Categóricas
