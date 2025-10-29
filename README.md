@@ -7,3 +7,4 @@ Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvi
 - **Módulo 19**: Estatística Aplicada
 - **Módulo 20**: Aprendizagem Bayesiana
 - **Módulo 21**: Árvore de Decisão
+- **Módulo 24**: Introdução ao SQL
