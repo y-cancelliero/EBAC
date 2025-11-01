@@ -9,4 +9,4 @@ Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvi
 - **Módulo 21**: Árvore de Decisão
 - **Módulo 24**: Introdução ao SQL
 - **Módulo 25**: Operações Básicas com SQL
-- **Módulo 26**: Operações Avançadas com SQL
+- **Módulo 27**: Regressão Logística
