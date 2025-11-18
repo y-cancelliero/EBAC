@@ -11,3 +11,5 @@ Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvi
 - **Módulo 25**: Operações Básicas com SQL
 - **Módulo 27**: Regressão Logística
 - **Módulo 30**: Agrupamento K-Means
+- **Módulo 32**: Random Forest
+- **Módulo 33**: Projeto - K-Means
