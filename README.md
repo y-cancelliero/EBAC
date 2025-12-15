@@ -13,3 +13,5 @@ Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvi
 - **Módulo 30**: Agrupamento K-Means
 - **Módulo 32**: Random Forest
 - **Módulo 33**: Projeto - K-Means
+- **Módulo 34**: Conceitos Avançados de Regressão (Polinomial, Elastic Net, Lasso, Ridge)
+- **Módulo 35**: Cross Validation
