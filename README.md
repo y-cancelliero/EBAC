@@ -15,3 +15,5 @@ Neste repositório estão armazenadas as tarefas realizadas durante o desenvolvi
 - **Módulo 33**: Projeto - K-Means
 - **Módulo 34**: Conceitos Avançados de Regressão (Polinomial, Elastic Net, Lasso, Ridge)
 - **Módulo 35**: Cross Validation
+- **Módulo 37**: Projeto PCA
+- 
